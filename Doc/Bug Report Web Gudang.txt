@@ -1,0 +1,6 @@
+•penambahan handling untuk mengatasi redudansi data pada input data kode barang
+•penyesuaian urutan tabel data dengan cara descending order [LIFO]
+•penyesuaian tampilan kolom tombol menjadi 'action' pada tabel header data stok barang
+•penambahan format waktu dan kolom keterangan pada menu insert tabel barang masuk dan keluar
+•penyesuaian urutan tabel data stok barang menjadi ascending order berdasarkan kode barang
+
